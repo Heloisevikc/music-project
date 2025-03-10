@@ -1,6 +1,6 @@
 let audios = [
     {caminho:'Natiruts - Mergulhei nos Seus Olhos', legenda:'mergulhei nos seus olhos'},
-    {caminho:'Arash.mp3', legenda:'Arash'},
+    {caminho:'Onze：20 - Pra Você [Clipe Oficial].m', legenda:'pra você'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
