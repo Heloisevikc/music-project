@@ -2,7 +2,7 @@ let audios = [
     {caminho:'Natiruts - Mergulhei nos Seus Olhos', legenda:'Mergulhei Nos Seus Olhos'},
     {caminho:'Onze：20 - Pra Você [Clipe Oficial].m', legenda:'Pra Você'},
     {caminho:'Aliança - Tribalistas (lyric video).mp3', legenda:'Aliança'},
-    {caminho:'Hayit.mp3', legenda:'Hayit'},
+    {caminho:'Outra Vida.mp3', legenda:'Outra Vida'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
