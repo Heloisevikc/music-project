@@ -7,7 +7,7 @@ let audios = [
     {caminho:'Charlie Brown Jr - Céu Azul (Clip', legenda:'Céu Azul'},
     {caminho:'Luz Que Me Traz Paz.mp3', legenda:'Luz Que Me Traz Paz'},
     {caminho:'Iframe A Droga do Amor [MHyswX2M82s].mp3', legenda:'A Droga Do Amor'},
-    {caminho:'titanic.mp3', legenda:'Titanic'},
+    {caminho:'Iframe Deixe Me Ir (Acústico) [kKxfUN', legenda:'Deixe Me Ir'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
