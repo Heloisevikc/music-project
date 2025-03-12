@@ -6,7 +6,7 @@ let audios = [
     {caminho:'Presente De Um Beija-Flor.mp3', legenda:'Presente De Um Beija-flor'},
     {caminho:'Charlie Brown Jr - Céu Azul (Clip', legenda:'Céu Azul'},
     {caminho:'Luz Que Me Traz Paz.mp3', legenda:'Luz Que Me Traz Paz'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe A Droga do Amor [MHyswX2M82s].mp3', legenda:'A Droga Do Amor'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
 ];
 
