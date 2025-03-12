@@ -3,9 +3,9 @@ let audios = [
     {caminho:'Onze：20 - Pra Você [Clipe Oficial].m', legenda:'Pra Você'},
     {caminho:'Aliança - Tribalistas (lyric video).mp3', legenda:'Aliança'},
     {caminho:'Outra Vida.mp3', legenda:'Outra Vida'},
-    {caminho:'Presente De Um Beija-Flor.mp3', legenda:'Presente de um Beija-flor'},
+    {caminho:'Presente De Um Beija-Flor.mp3', legenda:'Presente De Um Beija-flor'},
     {caminho:'Charlie Brown Jr - Céu Azul (Clip', legenda:'Céu Azul'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Luz Que Me Traz Paz.mp3', legenda:'Luz Que Me Traz Paz'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
 ];
