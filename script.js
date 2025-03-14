@@ -1,13 +1,13 @@
 let audios = [
-    {caminho:'Natiruts - Mergulhei nos Seus Olhos', legenda:'Mergulhei Nos Seus Olhos'},
-    {caminho:'Onze：20 - Pra Você [Clipe Oficial].m', legenda:'Pra Você'},
+    {caminho:'Natiruts - Mergulhei nos Seus Olhos (Áudio Oficial) ft. Katchafire.mp3', legenda:'Mergulhei Nos Seus Olhos'},
+    {caminho:'Onze：20 - Pra Você [Clipe Oficial].mp3', legenda:'Pra Você'},
     {caminho:'Aliança - Tribalistas (lyric video).mp3', legenda:'Aliança'},
     {caminho:'Outra Vida.mp3', legenda:'Outra Vida'},
     {caminho:'Presente De Um Beija-Flor.mp3', legenda:'Presente De Um Beija-flor'},
-    {caminho:'Charlie Brown Jr - Céu Azul (Clip', legenda:'Céu Azul'},
+    {caminho:'Charlie Brown Jr - Céu Azul (Clipe Oficial).mp3', legenda:'Céu Azul'},
     {caminho:'Luz Que Me Traz Paz.mp3', legenda:'Luz Que Me Traz Paz'},
     {caminho:'Iframe A Droga do Amor [MHyswX2M82s].mp3', legenda:'A Droga Do Amor'},
-    {caminho:'Iframe Deixe Me Ir (Acústico) [kKxfUN', legenda:'Deixe Me Ir'},
+    {caminho:'Iframe Deixe Me Ir (Acústico) [kKxfUNrrFJ4].mp3', legenda:'Deixe Me Ir'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
